@@ -1,0 +1,11 @@
+.heading {
+	text-align: center;
+}
+
+.even {
+	text-align: right;
+}
+
+article:hover {
+	background-color: #F9FFFF;
+}
